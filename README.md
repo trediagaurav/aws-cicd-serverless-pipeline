@@ -1,4 +1,4 @@
-# Welcome to your CICD Serverless CDK project! 
+# Welcome to CICD Serverless CDK project! 
 
 This is a project for TypeScript development with CDK.
 
