@@ -1,6 +1,9 @@
 # Welcome to your CICD Serverless CDK project! 
 
-This is a blank project for TypeScript development with CDK.
+This is a project for TypeScript development with CDK.
+
+![image](https://github.com/trediagaurav/aws-cicd-serverless-pipeline/assets/63077892/4c9dd67e-55c5-4965-ba63-fff5c9e8969d)
+
 
 Before starting with the project there is some pre-reqs tat needs to be fulfilled without which this project won't be successfully functional.
 
